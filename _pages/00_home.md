@@ -22,7 +22,7 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
   <tr>
     <td style="text-align:center"><img src="https://polisci.columbia.edu/sites/default/files/styles/cu_crop/public/content/Images/ProfilePhotos/Gelman.png?itok=-zHbvJpG" height="175"></td>
     <td style="text-align:center"><img src="https://www.microsoft.com/en-us/research/uploads/prod/2018/07/Webp.net-resizeimage-6.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://engineering.tufts.edu/sites/default/files/Hughes%20headshot.png" height="175"></td>
+    <td style="text-align:center"><img src="https://engineering.tufts.edu/cs/sites/g/files/lrezom576/files/styles/large/public/tufts_feeds/people_fis/mhughe02.png?itok=9iyaJKp6" height="175"></td>
 
   </tr>
   <tr>
@@ -33,7 +33,7 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
   </tr>
   <tr>
   <td style="text-align:center"><img src="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Max-Welling_0633-LR-small.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://static.projects.iq.harvard.edu/files/styles/profile_full/public/iacs2/files/pan_weiwei.jpg?m=1594045435&itok=T7QE9rWf" height="175"></td>
+    <td style="text-align:center"><img src="https://onefishy.github.io/img/wp.png" height="175"></td>
     <td style="text-align:center"><img src="https://www.cs.toronto.edu/~rgrosse/photo.png" height="175"></td>
   </tr>
   <tr>
