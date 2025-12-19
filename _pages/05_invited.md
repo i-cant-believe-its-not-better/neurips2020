@@ -88,7 +88,7 @@ title: Talks
 
 * Diana Cai, Trevor Campbell, Tamara Broderick. [Power posteriors do not reliably learn the number of components in a finite mixture](https://openreview.net/pdf?id=BRb4tLp6A3o)
 
-* W Ronny Huang, Zeyad Ali Sami Emam, Micah Goldblum, Liam H Fowl, Justin K Terry, Furong Huang, Tom Goldstein. [Understanding Generalization through Visualizations](https://openreview.net/pdf?id=pxqYT_7gToV)
+* W Ronny Huang, Zeyad Ali Sami Emam, Micah Goldblum, Liam H Fowl, J. K. Terry, Furong Huang, Tom Goldstein. [Understanding Generalization through Visualizations](https://openreview.net/pdf?id=pxqYT_7gToV)
 
 * Udari Madhushani, Naomi Leonard. [It Doesn’t Get Better and Here’s Why: A Fundamental Drawback in Natural Extensions of UCB to Multi-agent Bandits](https://openreview.net/pdf?id=eK034ngO05Y)
 

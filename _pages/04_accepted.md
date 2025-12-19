@@ -51,7 +51,7 @@ description: ICBINB@NeurIPS 2020
 
 * (Poster \#25): Ângelo Gregório Lovatto, Thiago Pereira Bueno, Denis Mauá, Leliane Nunes de Barros. [Decision-Aware Model Learning for Actor-Critic Methods: When Theory Does Not Meet Practice](https://openreview.net/pdf?id=a9lwn6v40C4)
 
-* (Poster \#27): W Ronny Huang, Zeyad Ali Sami Emam, Micah Goldblum, Liam H Fowl, Justin K Terry, Furong Huang, Tom Goldstein. [Understanding Generalization through Visualizations](https://openreview.net/pdf?id=pxqYT_7gToV)
+* (Poster \#27): W Ronny Huang, Zeyad Ali Sami Emam, Micah Goldblum, Liam H Fowl, J. K. Terry, Furong Huang, Tom Goldstein. [Understanding Generalization through Visualizations](https://openreview.net/pdf?id=pxqYT_7gToV)
 
 * (Poster \#28): Diana Cai, Trevor Campbell, Tamara Broderick. [Power posteriors do not reliably learn the number of components in a finite mixture](https://openreview.net/pdf?id=BRb4tLp6A3o)
 

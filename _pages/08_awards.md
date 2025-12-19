@@ -17,7 +17,7 @@ Please find below the awarded papers in this conference.
 
 **Didactic Paper Awards**: Paper that does a great job at explaining the problem and narrowing down the issue.
 
-* W Ronny Huang, Zeyad Ali Sami Emam, Micah Goldblum, Liam H Fowl, Justin K Terry, Furong Huang, and Tom Goldstein: *“Understanding Generalization through Visualizations”*
+* W Ronny Huang, Zeyad Ali Sami Emam, Micah Goldblum, Liam H Fowl, J. K. Terry, Furong Huang, and Tom Goldstein: *“Understanding Generalization through Visualizations”*
 
 * Diana Cai, Trevor Campbell, and Tamara Broderick: *“Power posteriors do not reliably learn the number of components in a finite mixture”*
 
